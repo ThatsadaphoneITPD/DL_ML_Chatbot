@@ -1,6 +1,6 @@
 # DL_ML_Chatbot
 
-# the three Main files here is 1st of intents.json, that collect data structure as tag, pattern and responses in obj of intenrs
+# the three Main files here is 1st of intents.json, that collect data structure as tag, pattern and responses in obj of intents
 # fist of all thing, import all of libraries framework model
 # in internal>Botchat> pip install ........
 
